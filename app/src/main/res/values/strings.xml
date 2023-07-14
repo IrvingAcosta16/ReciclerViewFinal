@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecicleViewFinal</string>
+
+    <string-array name="carreras">
+        <item>Ing. en Tecnologías de la Información</item>
+        <item>Ing. en Biotecnología</item>
+        <item>Ing. en Mecatrónica</item>
+        <item>Ing. en Energía</item>
+        <item>Ing. en Logística y Transporte</item>
+        <item>Lic. en Terapia Física</item>
+        <item>Ing. en Tecnología Ambiental</item>
+        <item>Ing. en Biomédica</item>
+        <item>Ing. en Animación y Efectos Visuales</item>
+        <item>Ing. en Nanotecnología</item>
+        <item>Lic. en Administración y Gestión Empresarial</item>
+        <item>Maestría en Ciencias Aplicadas</item>
+        <item>Maestría en Enseñanza de las Ciencias</item>
+    </string-array>
+
+
+</resources>
